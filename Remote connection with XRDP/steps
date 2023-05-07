@@ -1,1 +1,6 @@
+Connecting to the device through XRDP, the service is preinstalled and service starts up on boot.
 
+once the device is connected to the network you can connect to the device with the device's name which would be uniquely created in production. 
+
+for windows machines you can connect with the remote connection tool build into the operating system and be able to log into the device and remotely interact
+and monitor the device.
